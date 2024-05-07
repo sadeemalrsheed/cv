@@ -15,12 +15,12 @@ body {
 }
 
 a {
-  color: #34b7a7;
+  color: #C0ACA1; /*#34b7a7*/
   text-decoration: none;
 }
 
 a:hover {
-  color: #51cdbe;
+  color: #C0ACA1;
   text-decoration: none;
 }
 
@@ -62,7 +62,7 @@ h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #34b7a7;
+  border: 6px solid #C0ACA1;
   border-top-color: #dcf5f2;
   border-radius: 50%;
   width: 60px;
@@ -90,7 +90,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #34b7a7;
+  background: #C0ACA1;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -104,7 +104,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #49cbbb;
+  background: #C0ACA1;
   color: #fff;
 }
 
@@ -164,7 +164,7 @@ h6 {
 }
 
 .header-social-links a:hover {
-  color: #34b7a7;
+  color: #C0ACA1;
 }
 
 /*--------------------------------------------------------------
@@ -218,7 +218,7 @@ h6 {
   height: 2px;
   bottom: -5px;
   left: 0;
-  background-color: #34b7a7;
+  background-color: #C0ACA1;
   visibility: hidden;
   width: 0px;
   transition: all 0.3s ease-in-out 0s;
@@ -273,7 +273,7 @@ h6 {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #34b7a7;
+  color: #C0ACA1;
 }
 
 .navbar .dropdown:hover>ul {
@@ -373,7 +373,7 @@ h6 {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #34b7a7;
+  color: #C0ACA1;
 }
 
 .navbar-mobile .getstarted,
@@ -408,7 +408,7 @@ h6 {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #34b7a7;
+  color: #C0ACA1;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -462,11 +462,11 @@ h6 {
   transition: 0.5s;
   margin-top: 30px;
   color: #fff;
-  background: #34b7a7;
+  background: #C0ACA1;
 }
 
 #hero .btn-about:hover {
-  background: #3dc8b7;
+  background: #C0ACA1;
 }
 
 @media (min-width: 1024px) {
@@ -528,7 +528,7 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background: #34b7a7;
+  background: #C0ACA1;
   bottom: 0;
   left: calc(50% - 25px);
 }
@@ -572,8 +572,8 @@ section {
 }
 
 .cta .cta-btn:hover {
-  background: #34b7a7;
-  border: 2px solid #34b7a7;
+  background: #C0ACA1;
+  border: 2px solid #C0ACA1;
 }
 
 @media (max-width: 1024px) {
@@ -611,7 +611,7 @@ section {
 .about .content ul i {
   font-size: 20px;
   padding-right: 2px;
-  color: #34b7a7;
+  color: #C0ACA1;
 }
 
 .about .content p:last-child {
@@ -651,7 +651,7 @@ section {
   width: 1px;
   height: 10px;
   transition: 0.9s;
-  background-color: #34b7a7;
+  background-color: #C0ACA1;
 }
 
 /*--------------------------------------------------------------
@@ -660,7 +660,7 @@ section {
 .facts .counters span {
   font-size: 48px;
   display: block;
-  color: #34b7a7;
+  color: #C0ACA1;
 }
 
 .facts .counters p {
@@ -746,11 +746,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #34b7a7;
+  border: 1px solid #C0ACA1;
 }
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #34b7a7;
+  background-color: #C0ACA1;
 }
 
 /*--------------------------------------------------------------
@@ -767,7 +767,7 @@ section {
 .resume .resume-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
-  border-left: 2px solid #34b7a7;
+  border-left: 2px solid #C0ACA1;
   position: relative;
 }
 
@@ -776,18 +776,18 @@ section {
   font-size: 18px;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
-  color: #1d685f;
+  color: #635750; /*#1d685f */
   margin-bottom: 10px;
 }
 
 .resume .resume-item h5 {
   font-size: 16px;
-  background: #effbf9;
+  background: #e9e7e6;
   padding: 5px 15px;
   display: inline-block;
   font-weight: 600;
   margin-bottom: 10px;
-  color: #34b7a7;
+  color: #C0ACA1;
 }
 
 .resume .resume-item ul {
@@ -811,7 +811,7 @@ section {
   left: -9px;
   top: 0;
   background: #fff;
-  border: 2px solid #34b7a7;
+  border: 2px solid #C0ACA1;
 }
 
 /*--------------------------------------------------------------
@@ -931,7 +931,7 @@ section {
 }
 
 .services .iconbox-teal i {
-  color: #11dbcf;
+  color: #87e39b;
 }
 
 .services .iconbox-teal:hover .icon i {
@@ -939,7 +939,7 @@ section {
 }
 
 .services .iconbox-teal:hover .icon path {
-  fill: #11dbcf;
+  fill: #5ba95b;
 }
 
 /*--------------------------------------------------------------
@@ -973,7 +973,7 @@ section {
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
   color: #fff;
-  background: #34b7a7;
+  background: #C0ACA1;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -1086,11 +1086,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #34b7a7;
+  border: 1px solid #C0ACA1;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #34b7a7;
+  background-color: #C0ACA1;
 }
 
 .portfolio-details .portfolio-info {
@@ -1140,11 +1140,11 @@ section {
 
 .contact .info i {
   font-size: 20px;
-  color: #34b7a7;
+  color: #f8f6f4;
   float: left;
   width: 44px;
   height: 44px;
-  background: #effbf9;
+  background: #d5cdc9; /*#effbf9*/
   display: flex;
   justify-content: center;
   align-items: center;
@@ -1175,7 +1175,7 @@ section {
 .contact .info .email:hover i,
 .contact .info .address:hover i,
 .contact .info .phone:hover i {
-  background: #34b7a7;
+  background: #C0ACA1;
   color: #fff;
 }
 
@@ -1234,7 +1234,7 @@ section {
 
 .contact .php-email-form input:focus,
 .contact .php-email-form textarea:focus {
-  border-color: #34b7a7;
+  border-color: #C0ACA1;
 }
 
 .contact .php-email-form input {
@@ -1246,7 +1246,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit] {
-  background: #34b7a7;
+  background: #C0ACA1;
   border: 0;
   padding: 10px 30px 12px 30px;
   color: #fff;
@@ -1255,7 +1255,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit]:hover {
-  background: #3dc8b7;
+  background: #C0ACA1;
 }
 
 @keyframes animate-loading {
@@ -1285,5 +1285,5 @@ section {
 }
 
 #footer .credits a {
-  color: #34b7a7;
+  color: #C0ACA1;
 }
