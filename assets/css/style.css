@@ -939,9 +939,20 @@ section {
 }
 
 .services .iconbox-teal:hover .icon path {
-  fill: #5ba95b;
+  fill: #35bd59;
 }
 
+.services .iconbox-purple i {
+  color: #ca41d1;
+}
+
+.services .iconbox-purple:hover .icon i {
+  color: #fff;
+}
+
+.services .iconbox-purple:hover .icon path {
+  fill: #dd61d4;
+}
 /*--------------------------------------------------------------
 # Portfolio
 --------------------------------------------------------------*/
